@@ -1,2 +1,2 @@
 # clock
-Animated clock, soon to bean electrical device
+Animated clock, soon to be an electrical device
